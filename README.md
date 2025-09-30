@@ -43,7 +43,7 @@ Scaled content publishing by 10x using ML data pipelines. Built admin dashboards
 ## Let's connect
 
 - 📧 shridharshetty.a@northeastern.edu
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akashshetty1997/)
 - 🌐 [Portfolio](https://portfolio-chi-beryl-22wlfnouoe.vercel.app/)
 - 📱 [SupaTrack on iOS](https://apps.apple.com/us/app/supatrack-social-nutrition/id6749211003?platform=iphone)
 
