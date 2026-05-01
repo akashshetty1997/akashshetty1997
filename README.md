@@ -109,7 +109,12 @@ I'm a builder who lives at the intersection of **AI models** and **production sy
       <td width="50%">
         <h4>🔬 Derm Platform</h4>
         <p><strong>Multimodal skin cancer detection — live</strong></p>
-        <p>Three-stogo=github&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+        <p>
+          <a href="https://www.derm-platform.me/">
+            <img alt="Live demo" src="https://img.shields.io/badge/Live%20Demo-1F222E?style=for-the-badge&logo=vercel&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+          </a>
+          <a href="https://github.com/multimodal-derm/derm-platform">
+            <img alt="Source" src="https://img.shields.io/badge/Source-1F222E?style=for-the-badge&logo=github&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
           </a>
         </p>
       </td>
