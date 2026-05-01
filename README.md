@@ -93,20 +93,50 @@ I'm a builder who lives at the intersection of **AI models** and **production sy
 <details open>
   <summary><h3>🌟 Featured Projects</h3></summary>
 
-  <p align="left">
-    <a href="https://github.com/akashshetty1997/Supatrack">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=akashshetty1997&repo=Supatrack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Supatrack" />
-    </a>
-    <a href="https://github.com/multimodal-derm/derm-platform">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=multimodal-derm&repo=derm-platform&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="derm-platform" />
-    </a>
-    <a href="https://github.com/multimodal-derm/multimodal-skin-cancer-detection">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=multimodal-derm&repo=multimodal-skin-cancer-detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="multimodal-skin-cancer-detection" />
-    </a>
-    <a href="https://github.com/akashshetty1997/devmatch">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=akashshetty1997&repo=devmatch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="devmatch" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>🥗 Supatrack</h4>
+        <p><strong>AI-powered nutrition tracking, live on iOS & Android</strong></p>
+        <p>Computer vision food recognition with FastAPI + TensorFlow + Flutter. 92% recognition accuracy, 99.5% uptime on AWS, 4.9+ rating across stores.</p>
+        <p>
+          <a href="https://apps.apple.com/us/app/supatrack-social-nutrition/id6749211003">
+            <img alt="App Store" src="https://img.shields.io/badge/App%20Store-1F222E?style=for-the-badge&logo=app-store&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+          </a>
+          <img alt="Private repo" src="https://img.shields.io/badge/Private%20repo-1F222E?style=for-the-badge&logo=lock&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+        </p>
+      </td>
+      <td width="50%">
+        <h4>🔬 Derm Platform</h4>
+        <p><strong>Multimodal skin cancer detection — live</strong></p>
+        <p>Three-stogo=github&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>🧠 Multimodal Skin Cancer Detection</h4>
+        <p><strong>Research model behind Derm Platform</strong></p>
+        <p>PyTorch training pipeline for the cross-attention fusion model. MedSigLIP + ClinicalBERT + ABCD. Macro F1 = 0.7558, ROC-AUC = 0.9494.</p>
+        <p>
+          <img alt="Private repo" src="https://img.shields.io/badge/Private%20repo-1F222E?style=for-the-badge&logo=lock&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+          <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1F222E?style=for-the-badge&logo=pytorch&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+        </p>
+      </td>
+      <td width="50%">
+        <h4>🤝 DevMatch</h4>
+        <p><strong>Developer-recruiter matching platform</strong></p>
+        <p>Full-stack platform with Next.js 14, TypeScript, MongoDB, and GitHub API integration. Role-based access for developers, recruiters, and admins.</p>
+        <p>
+          <a href="https://github.com/akashshetty1997/devmatch-frontend">
+            <img alt="Source" src="https://img.shields.io/badge/Source-1F222E?style=for-the-badge&logo=github&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+          </a>
+          <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1F222E?style=for-the-badge&logo=next.js&logoColor=F8D866&labelColor=1F222E&color=F85D7F" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
   <a href="https://github.com/akashshetty1997?tab=repositories&sort=stargazers">
     <img alt="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=F8D866&logo=repo" />
@@ -121,12 +151,6 @@ I'm a builder who lives at the intersection of **AI models** and **production sy
   <h4>🔥 Streak Stats</h4>
   <p>
     <img title="GitHub streak" alt="Akash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshetty1997&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" />
-  </p>
-
-  <h4>💻 Profile Stats</h4>
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashshetty1997&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" alt="Akash's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshetty1997&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800" alt="Top Languages" />
   </p>
 
   <p><b>Note:</b> Top languages reflects the languages in my public repos and isn't a measure of skill or experience.</p>
