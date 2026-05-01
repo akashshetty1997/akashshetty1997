@@ -4,7 +4,7 @@
 -->
 
 <a href="https://github.com/akashshetty1997">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=220&section=header&text=Akash%20Shetty&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1F222E,F85D7F,F8D866&height=220&section=header&text=Akash%20Shetty&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </a>
 
 <p align="center">
