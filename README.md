@@ -198,5 +198,5 @@ I'm a builder who lives at the intersection of **AI models** and **production sy
 </p>
 
 <a href="https://github.com/akashshetty1997">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,30&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1F222E,F85D7F,F8D866&height=120&section=footer&fontColor=ffffff&fontSize=36&animation=fadeIn" width="100%" />
 </a>
